@@ -10,5 +10,5 @@ Consultas a la bases de datos inner joins , constrains , groups by , columnas ag
 ![Captura desde 2023-10-09 16-47-16](https://github.com/StefanoZevallos/sql_basededatos_implementacion/assets/107054283/28f35348-82f1-460b-9485-68549f2c7d2f)
 # Código para poder insertar los datos 
 ![Captura desde 2023-10-09 16-50-26](https://github.com/StefanoZevallos/sql_basededatos_implementacion/assets/107054283/e95ffd00-1b24-4b53-a873-635b405a30c7)
-# Consultas a la bases de datos , Se utilizan Joins , groups by , columnas agregado
+# Consultas a la bases de datos
 ![Captura desde 2023-10-09 16-53-28](https://github.com/StefanoZevallos/sql_basededatos_implementacion/assets/107054283/b63d7618-e073-401f-b7e8-a46ea31b189b)
